@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="agent-deployer",
-    version="0.1.0",
+    version="0.1.1",
     author="Ninad",
     author_email="ninadsk.tuchemnitz@gmail.com",
     description="A tool to deploy Python APIs to servers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/agent-deployer",
+    url="https://github.com/Logos-Labs-India/agent-deployer-v0.1.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
